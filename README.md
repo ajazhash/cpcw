@@ -1,1 +1,1 @@
-# cpcw
+# cpc_weighted
