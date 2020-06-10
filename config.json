@@ -8,9 +8,10 @@
     "text": "Giapponese"
   },
   "text": {
-    "more": "abcdefghk lmnop",
-    "intro": "Created by Giapponese\nThis network is usually created by.\nabc def..\n\n",
-    "title": "Test Network"
+    "more": "soon...!",
+    "intro": "Intro. here",
+	"title": "Visual Network Exploration of Weighted Network"
+	
   },
   "legend": {
     "edgeLabel": "Interaction",
@@ -23,7 +24,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": "Label"
   },
   "sigma": {
@@ -32,7 +33,7 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
+      "defaultLabelColor": "#fff",
       "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
@@ -46,8 +47,8 @@
       "maxNodeSize": 20
     },
     "mouseProperties": {
-      "maxRatio": 20,
-      "minRatio": 1
+      "maxRatio": 30,
+      "minRatio": 0.75
     }
   }
 }
